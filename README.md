@@ -25,6 +25,6 @@
 ## USER INTERFACE 
 
 <p align="center">
-    <img src="https://i.ibb.co/0JH95tP/Calcy.png"  width="500" height="500"/>
+    <img src="https://i.ibb.co/0JH95tP/Calcy.png"  width="300" height="400"/>
  </p>   
     
