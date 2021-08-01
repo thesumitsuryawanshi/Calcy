@@ -24,7 +24,4 @@
 
 ## USER INTERFACE 
 
-<p align="center">
-    <img src="https://i.ibb.co/0JH95tP/Calcy.png"  width="300" height="400"/>
- </p>   
-    
+![calcy2](https://user-images.githubusercontent.com/58788722/127763359-6a40df6c-5bae-4fdc-bfb0-e4a906cb45e1.png)
